@@ -1,3 +1,3 @@
 print("Hello world")
-a = 4
+a = 345
 print(a)
